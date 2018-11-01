@@ -54,7 +54,7 @@ function defaultRenameFn(fileStem: string, colorName: string): string {
 
 
 
-export default function(options: GulpSvgFillOptions) {
+function svgFill( options: GulpSvgFillOptions) {
   const renameFn = options.renameFn || defaultRenameFn;
   const svgFillers = Object.keys(options.colors).map((colorName) => {
     return {
@@ -94,3 +94,9 @@ export default function(options: GulpSvgFillOptions) {
     }
   );
 };
+
+// CommonJS
+module.exports = svgFill;
+
+// Make ES6 import compatible
+export default svgFill;
