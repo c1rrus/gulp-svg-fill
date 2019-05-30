@@ -38,6 +38,19 @@ describe('gulp-svg-fill', () => {
       });
   });
 
+  it('should emit unique output filenames', (done) => {
+    let outfileNames: string[] = [];
+    vfs.src(testFilePath)
+      .pipe(gulpSvgFill(testConfigColorsOnly))
+      .on('data', function(file: Vinyl) {
+        expect(outfileNames).not.toContain(file.basename);
+        outfileNames.push(file.basename);
+      })
+      .on('end', function() {
+        done();
+      });
+  });
+
   it('should emit Vinyl files', (done) => {
     vfs.src(testFilePath)
       .pipe(gulpSvgFill(testConfigColorsOnly))
