@@ -45,7 +45,7 @@
     "@types/jest": "^24.0.13",
     "@types/vinyl-fs": "^2.4.11",
     "color": "^3.1.1",
-    "del-cli": "^2.0.0",
+    "del-cli": "^3.0.0",
     "jest": "^24.8.0",
     "ts-jest": "^24.0.2",
     "typescript": "^3.5.1",
