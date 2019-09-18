@@ -34,10 +34,11 @@
   "homepage": "https://github.com/c1rrus/gulp-svg-fill#readme",
   "dependencies": {
     "@types/lodash.kebabcase": "^4.1.6",
+    "@types/node": "^8.10.54",
     "@types/through2": "^2.0.34",
     "@types/vinyl": "^2.0.3",
     "lodash.kebabcase": "^4.1.1",
-    "svg-fill": "^0.1.2",
+    "svg-fill": "^0.2.0",
     "through2": "^3.0.1",
     "vinyl": "^2.2.0"
   },
