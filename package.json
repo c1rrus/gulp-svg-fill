@@ -34,23 +34,23 @@
   "homepage": "https://github.com/c1rrus/gulp-svg-fill#readme",
   "dependencies": {
     "@types/lodash.kebabcase": "^4.1.6",
-    "@types/node": "^8.10.54",
+    "@types/node": "^8.10.59",
     "@types/through2": "^2.0.34",
-    "@types/vinyl": "^2.0.3",
+    "@types/vinyl": "^2.0.4",
     "lodash.kebabcase": "^4.1.1",
     "svg-fill": "^0.2.0",
     "through2": "^3.0.1",
     "vinyl": "^2.2.0"
   },
   "devDependencies": {
-    "@types/color": "^3.0.0",
-    "@types/jest": "^24.0.18",
+    "@types/color": "^3.0.1",
+    "@types/jest": "^24.0.25",
     "@types/vinyl-fs": "^2.4.11",
     "color": "^3.1.2",
     "del-cli": "^3.0.0",
     "jest": "^24.9.0",
-    "ts-jest": "^24.1.0",
-    "typescript": "^3.6.3",
+    "ts-jest": "^24.3.0",
+    "typescript": "^3.7.4",
     "vinyl-fs": "^3.0.3"
   },
   "engines": {
