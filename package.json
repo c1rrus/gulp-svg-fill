@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@types/color": "^3.0.1",
-    "@types/jest": "^24.0.25",
+    "@types/jest": "^25.1.0",
     "@types/vinyl-fs": "^2.4.11",
     "color": "^3.1.2",
     "del-cli": "^3.0.0",
