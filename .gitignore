@@ -1,3 +1,9 @@
+#### Project-specific ignores ####
+
+dist/
+
+
+#### Auto-generated ignores ####
 # Logs
 logs
 *.log
@@ -60,8 +66,3 @@ typings/
 ### VisualStudioCode ###
 .vscode/*
 .history
-
-
-#### Project-specific ignores ####
-
-dist/
