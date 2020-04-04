@@ -13,7 +13,8 @@
     "clean": "del dist/*",
     "build": "tsc",
     "watch": "tsc --watch",
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "lint": "eslint src --ext .js,.ts"
   },
   "repository": {
     "type": "git",
@@ -47,10 +48,13 @@
     "@types/color": "^3.0.1",
     "@types/jest": "^25.1.1",
     "@types/vinyl-fs": "^2.4.11",
+    "@typescript-eslint/eslint-plugin": "^2.26.0",
+    "@typescript-eslint/parser": "^2.26.0",
     "color": "^3.1.2",
     "commitizen": "^4.0.3",
     "cz-conventional-changelog": "^3.1.0",
     "del-cli": "^3.0.0",
+    "eslint": "^6.8.0",
     "jest": "^25.2.7",
     "ts-jest": "^25.1.0",
     "typescript": "^3.7.4",
