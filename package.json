@@ -45,6 +45,9 @@
     "vinyl": "^2.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/travis-cli": "^8.3.5",
     "@types/color": "^3.0.1",
     "@types/jest": "^25.1.1",
     "@types/vinyl-fs": "^2.4.11",
@@ -66,6 +69,7 @@
   },
   "husky": {
     "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
       "pre-commit": "npm run lint",
       "pre-push": "npm run test"
     }
