@@ -3,6 +3,7 @@ import through2 from 'through2';
 import Vinyl from 'vinyl';
 import Color from 'color';
 import kebabCase from 'lodash.kebabcase';
+import stream from 'stream';
 
 /**
  * One or more named colors.
@@ -54,7 +55,7 @@ function defaultRenameFn(fileStem: string, colorName: string): string {
 
 
 
-function svgFill( options: GulpSvgFillOptions) {
+function svgFill( options: GulpSvgFillOptions): stream.Transform {
   const renameFn = options.renameFn || defaultRenameFn;
   const svgFillers = Object.keys(options.colors).map((colorName) => {
     return {
@@ -92,8 +93,8 @@ function svgFill( options: GulpSvgFillOptions) {
       }
       done();
     }
-  );
-};
+  )
+}
 
 // CommonJS
 module.exports = svgFill;

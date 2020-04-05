@@ -29,7 +29,7 @@ describe('gulp-svg-fill', () => {
     let outfileCount = 0;
     vfs.src(testFilePath)
       .pipe(gulpSvgFill(testConfigColorsOnly))
-      .on('data', function(file: Vinyl) {
+      .on('data', function(/* file: Vinyl */) {
         outfileCount++;
       })
       .on('end', function() {
@@ -39,7 +39,7 @@ describe('gulp-svg-fill', () => {
   });
 
   it('should emit unique output filenames', (done) => {
-    let outfileNames: string[] = [];
+    const outfileNames: string[] = [];
     vfs.src(testFilePath)
       .pipe(gulpSvgFill(testConfigColorsOnly))
       .on('data', function(file: Vinyl) {
@@ -54,6 +54,7 @@ describe('gulp-svg-fill', () => {
   it('should emit Vinyl files', (done) => {
     vfs.src(testFilePath)
       .pipe(gulpSvgFill(testConfigColorsOnly))
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       .on('data', function(file: any) {
         expect(file).toBeInstanceOf(Vinyl);
       })
@@ -65,6 +66,7 @@ describe('gulp-svg-fill', () => {
   it('should emit Vinyl files (using stream contents)', (done) => {
     vfs.src(testFilePath, { buffer: false })
       .pipe(gulpSvgFill(testConfigColorsOnly))
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       .on('data', function(file: any) {
         expect(file).toBeInstanceOf(Vinyl);
       })
