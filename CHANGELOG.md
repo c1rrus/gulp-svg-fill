@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/c1rrus/gulp-svg-fill/compare/v1.0.0...v1.0.1) (2020-04-23)
+
+
+### Bug Fixes
+
+* **deps:** bump svg-fill from 0.3.0 to 0.3.1 ([7c51182](https://github.com/c1rrus/gulp-svg-fill/commit/7c5118238080f378bb1b4e83f1dab662db1163e2))
+
 # [1.0.0](https://github.com/c1rrus/gulp-svg-fill/compare/v0.2.0...v1.0.0) (2020-04-06)
 
 
