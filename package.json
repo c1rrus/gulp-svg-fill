@@ -41,7 +41,7 @@
     "@types/vinyl": "^2.0.4",
     "lodash.kebabcase": "^4.1.1",
     "svg-fill": "^0.3.0",
-    "through2": "^3.0.1",
+    "through2": "^4.0.1",
     "vinyl": "^2.2.0"
   },
   "devDependencies": {
