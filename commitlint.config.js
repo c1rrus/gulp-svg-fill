@@ -8,6 +8,9 @@ module.exports = {
     "subject-full-stop": [0, "never", "."],
 
     // Disable restrictions on subject case.
-    "subject-case": [0, "never", []]
+    "subject-case": [0, "never", []],
+
+    // Set a saner max-length.
+    "body-max-line-length": [2, "always", 1000],
   }
 };
