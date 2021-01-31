@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/c1rrus/gulp-svg-fill/compare/v1.0.5...v1.0.6) (2021-01-31)
+
+
+### Bug Fixes
+
+* **deps:** bump vinyl from 2.2.0 to 2.2.1 ([0ed52eb](https://github.com/c1rrus/gulp-svg-fill/commit/0ed52ebb9615273d65f9ae83b9f7a1a95e1a7465))
+
 ## [1.0.5](https://github.com/c1rrus/gulp-svg-fill/compare/v1.0.4...v1.0.5) (2020-05-15)
 
 
