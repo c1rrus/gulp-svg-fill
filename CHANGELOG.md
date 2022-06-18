@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/c1rrus/gulp-svg-fill/compare/v2.0.1...v2.0.2) (2022-06-18)
+
+
+### Bug Fixes
+
+* corrected @types/node dependency to v12.x ([d0ca45b](https://github.com/c1rrus/gulp-svg-fill/commit/d0ca45bfda57421d64a72060297fb00fde6b2556))
+
 ## [2.0.1](https://github.com/c1rrus/gulp-svg-fill/compare/v2.0.0...v2.0.1) (2022-06-18)
 
 
