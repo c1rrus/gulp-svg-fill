@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/c1rrus/gulp-svg-fill/compare/v2.0.0...v2.0.1) (2022-06-18)
+
+
+### Bug Fixes
+
+* **deps:** bump hosted-git-info from 2.7.1 to 2.8.9 ([1d317a7](https://github.com/c1rrus/gulp-svg-fill/commit/1d317a78e91b96f88deee122d86915f9125c0ae4))
+
 # [2.0.0](https://github.com/c1rrus/gulp-svg-fill/compare/v1.0.8...v2.0.0) (2022-06-18)
 
 
