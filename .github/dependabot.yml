@@ -6,9 +6,27 @@ updates:
     interval: daily
   open-pull-requests-limit: 10
   ignore:
+  - dependency-name: "@commitlint/cli"
+    versions:
+    - "> 16"
+  - dependency-name: "@commitlint/config-conventional"
+    versions:
+    - "> 16"
+  - dependency-name: "@semantic-release/changelog"
+    versions:
+    - "> 5"
+  - dependency-name: "@semantic-release/git"
+    versions:
+    - "> 9"
   - dependency-name: "@types/node"
     versions:
-    - "> 10"
+    - "> 12"
+  - dependency-name: "husky"
+    versions:
+    - "> 7"
+  - dependency-name: "semantic-release"
+    versions:
+    - "> 17"
   commit-message:
     prefix: fix
     prefix-development: chore
