@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/c1rrus/gulp-svg-fill/compare/v1.0.8...v2.0.0) (2022-06-18)
+
+
+### chore
+
+* bumps dependency versions and ups minimum Node version to 12 ([d2befb9](https://github.com/c1rrus/gulp-svg-fill/commit/d2befb99b094c74aae0d6c6ab18d882eea07711f))
+
+
+### BREAKING CHANGES
+
+* The minimum supported version of Node is now 12.
+
 ## [1.0.8](https://github.com/c1rrus/gulp-svg-fill/compare/v1.0.7...v1.0.8) (2021-02-15)
 
 
