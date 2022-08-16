@@ -36,22 +36,22 @@
   "homepage": "https://github.com/c1rrus/gulp-svg-fill#readme",
   "dependencies": {
     "@types/lodash.kebabcase": "^4.1.7",
-    "@types/node": "^12.20.55",
+    "@types/node": "^14.18.24",
     "@types/through2": "^2.0.34",
     "@types/vinyl": "^2.0.6",
     "lodash.kebabcase": "^4.1.1",
-    "svg-fill": "^1.0.1",
+    "svg-fill": "^2.0.0",
     "through2": "^4.0.2",
     "vinyl": "^2.2.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.3.0",
-    "@commitlint/config-conventional": "^16.2.4",
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
     "@cyberfinity/tsconfig-node": "^1.0.0",
-    "@semantic-release/changelog": "^5.0.1",
-    "@semantic-release/git": "^9.0.1",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
     "@types/color": "^3.0.3",
-    "@types/jest": "^28.1.2",
+    "@types/jest": "^28.1.7",
     "@types/vinyl-fs": "^2.4.12",
     "@typescript-eslint/eslint-plugin": "^5.28.0",
     "@typescript-eslint/parser": "^5.28.0",
@@ -60,15 +60,15 @@
     "cz-conventional-changelog": "^3.3.0",
     "del-cli": "^5.0.0",
     "eslint": "^8.18.0",
-    "husky": "^7.0.4",
-    "jest": "^28.1.1",
-    "semantic-release": "^17.4.7",
+    "husky": "^8.0.1",
+    "jest": "^28.1.3",
+    "semantic-release": "^19.0.3",
     "ts-jest": "^28.0.5",
     "typescript": "^4.7.4",
     "vinyl-fs": "^3.0.3"
   },
   "engines": {
-    "node": ">= 12"
+    "node": ">= 14"
   },
   "husky": {
     "hooks": {
