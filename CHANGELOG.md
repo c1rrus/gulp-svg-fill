@@ -1,3 +1,21 @@
+## [3.0.1](https://github.com/c1rrus/gulp-svg-fill/compare/v3.0.0...v3.0.1) (2022-11-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @types/node from 14.18.24 to 14.18.25 ([ac462ff](https://github.com/c1rrus/gulp-svg-fill/commit/ac462ffa02380d142a34d039594fb1eab58e7804))
+* **deps:** bump @types/node from 14.18.25 to 14.18.26 ([4af4758](https://github.com/c1rrus/gulp-svg-fill/commit/4af4758b0300f345e74b107ba0db7bdbf5c3f8a2))
+* **deps:** bump @types/node from 14.18.26 to 14.18.27 ([7c9b366](https://github.com/c1rrus/gulp-svg-fill/commit/7c9b366bf203fc079f2307cb9325e419e0cca648))
+* **deps:** bump @types/node from 14.18.27 to 14.18.28 ([6f8c09f](https://github.com/c1rrus/gulp-svg-fill/commit/6f8c09f60d2fb8f237e18fc24e14fc4e50632316))
+* **deps:** bump @types/node from 14.18.28 to 14.18.29 ([8d49bf6](https://github.com/c1rrus/gulp-svg-fill/commit/8d49bf6e749451783944b3fbba4cea003fc6e123))
+* **deps:** bump @types/node from 14.18.29 to 14.18.30 ([a7dd0ce](https://github.com/c1rrus/gulp-svg-fill/commit/a7dd0ceee4a9ac33acf06acc918f0843d6de5158))
+* **deps:** bump @types/node from 14.18.30 to 14.18.31 ([4e5e68a](https://github.com/c1rrus/gulp-svg-fill/commit/4e5e68abc1d28b12f63074353438ab0a0e95d5cb))
+* **deps:** bump @types/node from 14.18.31 to 14.18.32 ([040f3af](https://github.com/c1rrus/gulp-svg-fill/commit/040f3af80316550fff917d907114199d57fc47f5))
+* **deps:** bump @types/node from 14.18.32 to 14.18.33 ([200c2c3](https://github.com/c1rrus/gulp-svg-fill/commit/200c2c3b7f484fca57c22fe3badb9a7d518bad80))
+* **deps:** bump @types/through2 from 2.0.36 to 2.0.37 ([80179bd](https://github.com/c1rrus/gulp-svg-fill/commit/80179bdb7834c8ec7b8f449bb5e76c63a00b46e0))
+* **deps:** bump @types/through2 from 2.0.37 to 2.0.38 ([8d154a9](https://github.com/c1rrus/gulp-svg-fill/commit/8d154a96a70764a1b6ff7fe130263ad5a17b2a47))
+* **deps:** bump svg-fill from 2.0.0 to 2.0.1 ([9fb9c3c](https://github.com/c1rrus/gulp-svg-fill/commit/9fb9c3ccb8753841d3b8735de58276f3a23276a3))
+
 # [3.0.0](https://github.com/c1rrus/gulp-svg-fill/compare/v2.0.2...v3.0.0) (2022-08-16)
 
 
