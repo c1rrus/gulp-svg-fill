@@ -1,3 +1,10 @@
+## [3.0.2](https://github.com/c1rrus/gulp-svg-fill/compare/v3.0.1...v3.0.2) (2022-11-18)
+
+
+### Bug Fixes
+
+* **deps:** bump minimatch from 3.0.4 to 3.1.2 ([2365a52](https://github.com/c1rrus/gulp-svg-fill/commit/2365a52aec138da9305aa1946eb2c11f14dde026))
+
 ## [3.0.1](https://github.com/c1rrus/gulp-svg-fill/compare/v3.0.0...v3.0.1) (2022-11-16)
 
 

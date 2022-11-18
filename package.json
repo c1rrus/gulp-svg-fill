@@ -1,6 +1,6 @@
 {
   "name": "gulp-svg-fill",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Gulp plugin that fills SVG files with a single color",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
