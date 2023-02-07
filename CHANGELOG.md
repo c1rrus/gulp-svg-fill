@@ -1,3 +1,14 @@
+## [3.0.3](https://github.com/c1rrus/gulp-svg-fill/compare/v3.0.2...v3.0.3) (2023-02-07)
+
+
+### Bug Fixes
+
+* **deps:** bump @types/node from 14.18.33 to 14.18.34 ([367ccc2](https://github.com/c1rrus/gulp-svg-fill/commit/367ccc2feed19930b54fc8838ca3d342c45e3bd1))
+* **deps:** bump @types/node from 14.18.34 to 14.18.35 ([dd89384](https://github.com/c1rrus/gulp-svg-fill/commit/dd893842dc2ca9d1705a1f362ac8a4db494020eb))
+* **deps:** bump @types/node from 14.18.35 to 14.18.36 ([8c8eed3](https://github.com/c1rrus/gulp-svg-fill/commit/8c8eed3a9d09833823c68216e4827830ad0b262f))
+* **deps:** bump http-cache-semantics from 4.1.0 to 4.1.1 ([8f86714](https://github.com/c1rrus/gulp-svg-fill/commit/8f86714e94daa3199ac8aa4c54ccc8e32c759690))
+* **deps:** bump json5 from 2.2.1 to 2.2.3 ([db8709f](https://github.com/c1rrus/gulp-svg-fill/commit/db8709f3f7527e2706c657af47fe5404edf2d32b))
+
 ## [3.0.2](https://github.com/c1rrus/gulp-svg-fill/compare/v3.0.1...v3.0.2) (2022-11-18)
 
 
