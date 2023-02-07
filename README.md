@@ -14,7 +14,7 @@
 
 ### Requirements
 
-* Node.js >= 10
+* Node.js >= 14
 
 ### Installation
 
