@@ -42,7 +42,7 @@
     "lodash.kebabcase": "^4.1.1",
     "svg-fill": "^2.0.0",
     "through2": "^4.0.2",
-    "vinyl": "^2.2.0"
+    "vinyl": "^3.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
