@@ -62,7 +62,7 @@
     "eslint": "^8.18.0",
     "husky": "^8.0.1",
     "jest": "^29.3.1",
-    "semantic-release": "^20.1.0",
+    "semantic-release": "^21.0.0",
     "ts-jest": "^29.0.3",
     "typescript": "^5.0.2",
     "vinyl-fs": "^3.0.3"
