@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/c1rrus/gulp-svg-fill/compare/v3.0.5...v3.1.0) (2023-04-17)
+
+
+### Features
+
+* adds deprecation notice to README. ([2669ecf](https://github.com/c1rrus/gulp-svg-fill/commit/2669ecf49ef9676269baa4b1987bf9f97c20d3c9))
+
 ## [3.0.5](https://github.com/c1rrus/gulp-svg-fill/compare/v3.0.4...v3.0.5) (2023-04-17)
 
 
