@@ -1,7 +1,5 @@
 # gulp-svg-fill
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/c1rrus/gulp-svg-fill.svg)](https://greenkeeper.io/)
-
 <p align="center">
 
 ![Illustration of an SVG shape being filled with a color](./gulp-svg-fill-illustration.svg)
