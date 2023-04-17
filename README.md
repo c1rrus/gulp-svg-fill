@@ -1,5 +1,13 @@
 # gulp-svg-fill
 
+---
+
+⚠️ **No longer supported**
+
+This library is no longer being maintained and the git repo has been archived.
+
+---
+
 <p align="center">
 
 ![Illustration of an SVG shape being filled with a color](./gulp-svg-fill-illustration.svg)
